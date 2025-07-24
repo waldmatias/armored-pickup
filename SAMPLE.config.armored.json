@@ -1,0 +1,20 @@
+{
+    "farmers": [
+        {
+            "secret": "S..."
+        }
+    ],
+    "vault": {
+        "address": "G...",
+        "memo": "ARMORED PICKUP"
+    },
+    "stellar": {
+        "horizon": "https://horizon-futurenet.stellar.org",
+        "rpc": "https://rpc-futurenet.stellar.org",
+        "networkPassphrase": "Test SDF Future Network ; October 2022",
+        "assetIssuer": "GCDVKDZF3IT3Q5A7ZAJIW5ZXTTIDCPUDUBSXWAW4HUKR54ME62Y6DKPO",
+        "assetCode": "KALE",
+        "fees": 300000,
+        "debug": false
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "armored",
+  "version": "1.0.0",
+  "dependencies": {
+    "@stellar/stellar-sdk": "^14.0.0-rc.3"
+  },
+  "scripts": {
+    "start": "node armored.js"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  }
+}
